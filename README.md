@@ -1,13 +1,1 @@
-[
-
-  {
-
-    "عکس": "https://s4.uupload.ir/files/clutchscreen20138_f0tq.png",
-
-    "متن": "کلاچ هک",
-
-    "قیمت": "2000"
-
-  }
-
-]
+[{"عکس":"ttps://s4.uupload.ir/files/clutchscreen20138_f0tq.png\"","نام":"کلاچ(هک)","قیمت":"1000","توضیحات":"کلاچ \nهک شده فول امکان"}]
